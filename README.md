@@ -1,6 +1,13 @@
 # ToDo - React + TypeScript
 
 /React + TypeScript quick learning/
+<br>
+<br>
+<br>
+React<br>
+TypeScript<br>
+[Materialize](https://materializecss.com/)<br>
+React-router<br>
 
 Based on [tutorial](https://www.youtube.com/watch?v=OvLWWvjoi8s) of Vladilen Minin
 <br>
